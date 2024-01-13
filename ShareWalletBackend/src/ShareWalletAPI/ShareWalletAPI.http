@@ -1,0 +1,6 @@
+@ShareWalletAPI_HostAddress = http://localhost:5183
+
+GET {{ShareWalletAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
